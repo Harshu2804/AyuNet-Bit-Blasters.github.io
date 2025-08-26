@@ -18,7 +18,7 @@ This issue directly affects the health, income, and quality of life of thousands
 4.AI-Powered Symptom Checker – Optimized for low-bandwidth rural networks.
 5.Scalability – A replicable framework for other rural districts.
 
--> Supporting Data
+-> Supporting Data:
 
 1.Nabha Civil Hospital serves 173 villages but has only 11 of 23 sanctioned doctors.
 2.Only 31% of rural Punjab households have internet access → need for offline-first solutions.
